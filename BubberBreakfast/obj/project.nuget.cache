@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vOsE/zzkQpU3N1OeEb6clbpjmQFwcmKBfIINmtAs7laqwok/TxP6WQjVR9U8A7K0n6FC3a+k/Ovk1sk3GJ/E5Q==",
+  "success": true,
+  "projectFilePath": "/Users/luishmsouza/CODE/CRUD/BubberBreakfast/BubberBreakfast/BubberBreakfast.csproj",
+  "expectedPackageFiles": [
+    "/Users/luishmsouza/.nuget/packages/erroror/1.0.0/erroror.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

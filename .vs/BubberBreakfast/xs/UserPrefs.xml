@@ -1,0 +1,32 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{FB9423DF-D0EA-429F-85A7-81E012E98865}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BubberBreakfast.Contracts/Breakfast/CreateBreakfastRequest.cs">
+    <Files>
+      <File FileName="BubberBreakfast.Contracts/Breakfast/CreateBreakfastRequest.cs" Line="15" Column="1" />
+      <File FileName="BubberBreakfast.Contracts/Breakfast/BreakfastResponse.cs" />
+      <File FileName="BubberBreakfast/Models/Breakfast.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BubberBreakfast" expanded="True">
+            <Node name="BubberBreakfast" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Breakfasts" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="BubberBreakfast.Contracts" expanded="True">
+              <Node name="Breakfast" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BubberBreakfast PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
